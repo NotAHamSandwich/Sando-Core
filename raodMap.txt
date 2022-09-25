@@ -1,0 +1,28 @@
+__Base-Engine__
+_-abstracted window creation
+_-input
+_-abstracted primative rendering
+-collisions
+-rotations
+_-image loading
+-phycis
+-sound
+-abstracted coordinates
+-file acces
+-event system
+-sene building
+
+__After-Base__
+-animation
+-scripting
+-ui tools
+
+
+
+__Extra-Things-In-The-Engine__
+-lighting
+-
+
+__Engine-Desing__
+-game object like structure
+-addedlable components
